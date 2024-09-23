@@ -1,10 +1,10 @@
 Pod::Spec.new do |spec|
 
   spec.name = "Vmax"
-  spec.version = "4.0.2"
+  spec.version = "4.0.3"
   spec.summary = "Vmax allows the publishers to display wide variety of ads."
   spec.description = "Vmax is a framework which handles the core functionality of Ads like request handling, caching, refresh Ad, tracking, etc."
-  spec.homepage = "https://www.vmax.com"
+  spec.homepage = "https://github.com/Vmax-SDK-iOS/Vmax"
   spec.license = "Copyright 2023-2024 Vserv Digital Services Pvt Ltd. All rights reserved."
   spec.author = "Vserv-Digital-Services-Pvt-Ltd"
   spec.platform = :ios, "12.0"
