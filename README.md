@@ -4,7 +4,7 @@ Vmax is a framework which handles the core functionality of Ads like request han
 
 ## Prerequisites
 
-- Use Xcode 13.3.1 or higher
+- Use Xcode 15.1 or higher
 - Target iOS 12.0 or higher
 
 ## Installation
